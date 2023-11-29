@@ -1,0 +1,14 @@
+C:\Users\Jala\source\repos\Fibanocci_Solution\bin\Debug\net7.0\Fibanocci_Solution.exe
+C:\Users\Jala\source\repos\Fibanocci_Solution\bin\Debug\net7.0\Fibanocci_Solution.deps.json
+C:\Users\Jala\source\repos\Fibanocci_Solution\bin\Debug\net7.0\Fibanocci_Solution.runtimeconfig.json
+C:\Users\Jala\source\repos\Fibanocci_Solution\bin\Debug\net7.0\Fibanocci_Solution.dll
+C:\Users\Jala\source\repos\Fibanocci_Solution\bin\Debug\net7.0\Fibanocci_Solution.pdb
+C:\Users\Jala\source\repos\Fibanocci_Solution\obj\Debug\net7.0\Fibanocci_Solution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jala\source\repos\Fibanocci_Solution\obj\Debug\net7.0\Fibanocci_Solution.AssemblyInfoInputs.cache
+C:\Users\Jala\source\repos\Fibanocci_Solution\obj\Debug\net7.0\Fibanocci_Solution.AssemblyInfo.cs
+C:\Users\Jala\source\repos\Fibanocci_Solution\obj\Debug\net7.0\Fibanocci_Solution.csproj.CoreCompileInputs.cache
+C:\Users\Jala\source\repos\Fibanocci_Solution\obj\Debug\net7.0\Fibanocci_Solution.dll
+C:\Users\Jala\source\repos\Fibanocci_Solution\obj\Debug\net7.0\refint\Fibanocci_Solution.dll
+C:\Users\Jala\source\repos\Fibanocci_Solution\obj\Debug\net7.0\Fibanocci_Solution.pdb
+C:\Users\Jala\source\repos\Fibanocci_Solution\obj\Debug\net7.0\Fibanocci_Solution.genruntimeconfig.cache
+C:\Users\Jala\source\repos\Fibanocci_Solution\obj\Debug\net7.0\ref\Fibanocci_Solution.dll
